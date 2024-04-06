@@ -1,0 +1,111 @@
+
+怪物-1.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+banshou
+  rotate: false
+  xy: 2, 4
+  size: 61, 87
+  orig: 61, 87
+  offset: 0, 0
+  index: -1
+jianjia
+  rotate: true
+  xy: 267, 2
+  size: 35, 42
+  orig: 35, 42
+  offset: 0, 0
+  index: -1
+jiao
+  rotate: false
+  xy: 118, 8
+  size: 30, 90
+  orig: 30, 90
+  offset: 0, 0
+  index: -1
+jiao_r
+  rotate: false
+  xy: 197, 15
+  size: 32, 83
+  orig: 32, 83
+  offset: 0, 0
+  index: -1
+koudai
+  rotate: true
+  xy: 282, 215
+  size: 39, 38
+  orig: 39, 38
+  offset: 0, 0
+  index: -1
+shangbi
+  rotate: true
+  xy: 229, 100
+  size: 47, 54
+  orig: 47, 54
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 113, 100
+  size: 91, 154
+  orig: 92, 154
+  offset: 0, 0
+  index: -1
+shou_l
+  rotate: false
+  xy: 150, 15
+  size: 45, 83
+  orig: 45, 83
+  offset: 0, 0
+  index: -1
+shou_r
+  rotate: false
+  xy: 282, 178
+  size: 33, 35
+  orig: 33, 35
+  offset: 0, 0
+  index: -1
+shoubi_r
+  rotate: true
+  xy: 65, 7
+  size: 84, 51
+  orig: 84, 51
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 2, 93
+  size: 109, 161
+  orig: 109, 161
+  offset: 0, 0
+  index: -1
+tui_l
+  rotate: false
+  xy: 267, 39
+  size: 36, 59
+  orig: 36, 59
+  offset: 0, 0
+  index: -1
+tui_r
+  rotate: false
+  xy: 231, 23
+  size: 34, 75
+  orig: 34, 75
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: true
+  xy: 229, 149
+  size: 105, 51
+  orig: 105, 51
+  offset: 0, 0
+  index: -1
+yingzi
+  rotate: true
+  xy: 206, 113
+  size: 141, 21
+  orig: 141, 21
+  offset: 0, 0
+  index: -1

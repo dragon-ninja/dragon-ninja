@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - exp
+  - player
+  - enemy
+  - skillBox
+  - bossWall
+  - enemySkillBox
+  - obstacle
+  - obstacle_start
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - player
+  - enemy
+  - skillBox
+  - prop
+  - wall
+  - obstacle
+  - bound
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: enemy
+    uniqueID: 1290595817
+    locked: 0
+  - name: player
+    uniqueID: 3306679245
+    locked: 0
+  - name: skill
+    uniqueID: 2853260009
+    locked: 0

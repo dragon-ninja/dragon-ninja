@@ -1,0 +1,188 @@
+
+主人设-刀.png
+size: 1624,1077
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+neilian
+  rotate: false
+  xy: 668, 289
+  size: 590, 397
+  orig: 590, 397
+  offset: 0, 0
+  index: -1
+peishi
+  rotate: true
+  xy: 1389, 191
+  size: 152, 116
+  orig: 152, 116
+  offset: 0, 0
+  index: -1
+quantou-2
+  rotate: false
+  xy: 1462, 74
+  size: 143, 115
+  orig: 149, 118
+  offset: 0, 3
+  index: -1
+shang bi-2
+  rotate: true
+  xy: 415, 4
+  size: 108, 141
+  orig: 108, 141
+  offset: 0, 0
+  index: -1
+shanglian
+  rotate: true
+  xy: 2, 341
+  size: 734, 479
+  orig: 734, 479
+  offset: 0, 0
+  index: -1
+shengti
+  rotate: true
+  xy: 1287, 721
+  size: 354, 284
+  orig: 354, 284
+  offset: 0, 0
+  index: -1
+shou -3
+  rotate: false
+  xy: 1507, 210
+  size: 114, 133
+  orig: 114, 134
+  offset: 0, 0
+  index: -1
+tiezhi
+  rotate: true
+  xy: 558, 17
+  size: 95, 128
+  orig: 95, 128
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: true
+  xy: 483, 476
+  size: 210, 175
+  orig: 210, 175
+  offset: 0, 0
+  index: -1
+xialian
+  rotate: false
+  xy: 2, 114
+  size: 664, 225
+  orig: 664, 225
+  offset: 0, 0
+  index: -1
+xiao bi-1
+  rotate: false
+  xy: 1038, 173
+  size: 179, 114
+  orig: 179, 115
+  offset: 0, 1
+  index: -1
+xiao bi-2
+  rotate: true
+  xy: 1377, 345
+  size: 137, 134
+  orig: 137, 139
+  offset: 0, 4
+  index: -1
+xiaobi-3
+  rotate: false
+  xy: 688, 2
+  size: 156, 155
+  orig: 156, 159
+  offset: 0, 2
+  index: -1
+yingzi
+  rotate: false
+  xy: 2, 5
+  size: 411, 107
+  orig: 411, 107
+  offset: 0, 0
+  index: -1
+youbi
+  rotate: true
+  xy: 668, 159
+  size: 128, 193
+  orig: 128, 193
+  offset: 0, 0
+  index: -1
+youjiao
+  rotate: true
+  xy: 846, 17
+  size: 140, 169
+  orig: 140, 169
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: true
+  xy: 1513, 389
+  size: 93, 109
+  orig: 93, 109
+  offset: 0, 0
+  index: -1
+youyan
+  rotate: false
+  xy: 1309, 21
+  size: 151, 151
+  orig: 151, 151
+  offset: 0, 0
+  index: -1
+zhixiang_yan
+  rotate: true
+  xy: 1219, 174
+  size: 113, 168
+  orig: 113, 168
+  offset: 0, 0
+  index: -1
+zuohou
+  rotate: false
+  xy: 1287, 484
+  size: 284, 235
+  orig: 284, 235
+  offset: 0, 0
+  index: -1
+zuojiao
+  rotate: true
+  xy: 863, 160
+  size: 127, 173
+  orig: 127, 173
+  offset: 0, 0
+  index: -1
+zuojiao2
+  rotate: false
+  xy: 1172, 2
+  size: 135, 169
+  orig: 139, 169
+  offset: 2, 0
+  index: -1
+zuoshou -3
+  rotate: true
+  xy: 1260, 305
+  size: 177, 115
+  orig: 288, 115
+  offset: 0, 0
+  index: -1
+zuoshou-1
+  rotate: false
+  xy: 483, 347
+  size: 177, 127
+  orig: 177, 129
+  offset: 0, 1
+  index: -1
+zuoyan
+  rotate: false
+  xy: 1017, 5
+  size: 153, 153
+  orig: 153, 153
+  offset: 0, 0
+  index: -1
+复合枪2
+  rotate: false
+  xy: 483, 688
+  size: 802, 387
+  orig: 802, 397
+  offset: 0, 6
+  index: -1

@@ -1,0 +1,184 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4365115075614926748
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4333619964307566524}
+  - component: {fileID: 5991597353426614670}
+  - component: {fileID: 7984643523942311435}
+  m_Layer: 0
+  m_Name: Firebomb_super
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4333619964307566524
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4365115075614926748}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: -6.74}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4297422489054838473}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5991597353426614670
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4365115075614926748}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a0a1a4e81414874ea388296de4a60a7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  bs: {fileID: 0}
+  attr:
+    id: 
+    itemName: 
+    desc: 
+    pfPath: Sharp
+    level: 1
+    LevelDesc: []
+    LevelEffect: []
+    triggerTyp: move
+    VTskill: 
+    skillType: Kunai
+    ackType: bullet
+    moveType: straight
+    desType: hitEnd;timeEnd
+    exTriggerType: hit;time
+    exId: 
+    breach: 
+    attack: 10
+    attack_up: 5
+    cd: 1.5
+    cd_up: 0
+    cd_min: 0
+    angle: 0
+    bulletNum: 0
+    num: 1
+    num_up: 0
+    num_max: 0
+    startCheckTime: 0
+    damgaeCheckTime: 0
+    duration: 3
+    duration_up: 0
+    duration_max: 0
+    dmgCount: 1
+    interval: 0
+    interval_up: 0
+    interval_max: 0
+    range: 50
+    range_up: 0
+    range_max: 50
+    dmgSize: 1
+    dmgSize_up: 0
+    dmgSize_max: 1
+    speed: 0
+    stiffTime: 0
+    stiffForce: 0
+    stiffType: "\u51FB\u9000"
+    exclusive: 
+  now_duration: 0
+  startPoint: {x: 0, y: 0, z: 0}
+  flyDir: {x: 0, y: 0, z: 0}
+  pointVec: {x: 0, y: 0, z: 0}
+  flyType: "\u76F4\u7EBF"
+  dmgUp: 1
+  sizeUp: 1
+--- !u!58 &7984643523942311435
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4365115075614926748}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.5
+--- !u!1001 &4301644221070296053
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4333619964307566524}
+    m_Modifications:
+    - target: {fileID: 1438618567075492, guid: 6e82bfe3eb90bbc468d6b3be50ddcb56, type: 3}
+      propertyPath: m_Name
+      value: FireballSoftMissileBlue
+      objectReference: {fileID: 0}
+    - target: {fileID: 4785473748909372, guid: 6e82bfe3eb90bbc468d6b3be50ddcb56, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4785473748909372, guid: 6e82bfe3eb90bbc468d6b3be50ddcb56, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4785473748909372, guid: 6e82bfe3eb90bbc468d6b3be50ddcb56, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4785473748909372, guid: 6e82bfe3eb90bbc468d6b3be50ddcb56, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4785473748909372, guid: 6e82bfe3eb90bbc468d6b3be50ddcb56, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4785473748909372, guid: 6e82bfe3eb90bbc468d6b3be50ddcb56, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4785473748909372, guid: 6e82bfe3eb90bbc468d6b3be50ddcb56, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4785473748909372, guid: 6e82bfe3eb90bbc468d6b3be50ddcb56, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4785473748909372, guid: 6e82bfe3eb90bbc468d6b3be50ddcb56, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4785473748909372, guid: 6e82bfe3eb90bbc468d6b3be50ddcb56, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4785473748909372, guid: 6e82bfe3eb90bbc468d6b3be50ddcb56, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 82106535891089230, guid: 6e82bfe3eb90bbc468d6b3be50ddcb56, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6e82bfe3eb90bbc468d6b3be50ddcb56, type: 3}
+--- !u!4 &4297422489054838473 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4785473748909372, guid: 6e82bfe3eb90bbc468d6b3be50ddcb56, type: 3}
+  m_PrefabInstance: {fileID: 4301644221070296053}
+  m_PrefabAsset: {fileID: 0}

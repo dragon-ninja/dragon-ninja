@@ -1,0 +1,260 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34eeabdaa31afbd44bd468bc1b629d07, type: 3}
+  m_Name: dungeonMode
+  m_EditorClassIdentifier: 
+  md5: 
+  descList:
+  - id: d001
+    name: xxxx
+    desc: 
+    mapType: "\u65E0\u9650"
+  - id: d002
+    name: xxxx
+    desc: 
+    mapType: "\u73AF\u5F62"
+  - id: d003
+    name: xxxx
+    desc: 
+    mapType: "\u8FB9\u754C"
+  infoList:
+  - id: d001
+    time: 5
+    desc: "\u602A\u6F6E1"
+    type: "\u52A0\u5165"
+    enemys: e1
+    cd: 1
+    num: 5
+    hp_up: 1
+    dmg_up: 1
+    exp_up: 1
+    speed_up: 1
+  - id: d001
+    time: 5
+    desc: 
+    type: boss
+    enemys: boss1
+    cd: 0
+    num: 0
+    hp_up: 1
+    dmg_up: 1
+    exp_up: 1
+    speed_up: 1
+  - id: d001
+    time: 90
+    desc: "\u602A\u72693\u52A0\u5165"
+    type: "\u52A0\u5165"
+    enemys: e3
+    cd: 2
+    num: 15
+    hp_up: 1
+    dmg_up: 1
+    exp_up: 1
+    speed_up: 1
+  - id: d001
+    time: 90
+    desc: "\u602A\u72691\u9000\u573A"
+    type: "\u9000\u573A"
+    enemys: e1
+    cd: 0
+    num: 0
+    hp_up: 0
+    dmg_up: 0
+    exp_up: 0
+    speed_up: 1
+  - id: d001
+    time: 120
+    desc: "\u7CBE\u82F1\u52A0\u51651"
+    type: "\u7CBE\u82F1"
+    enemys: jy1
+    cd: 0
+    num: 0
+    hp_up: 1
+    dmg_up: 1
+    exp_up: 1
+    speed_up: 1
+  - id: d001
+    time: 180
+    desc: "\u602A\u6F6E1"
+    type: "\u602A\u6F6E"
+    enemys: e1
+    cd: 1.5
+    num: 70
+    hp_up: 2
+    dmg_up: 1
+    exp_up: 1
+    speed_up: 1
+  - id: d001
+    time: 180
+    desc: "\u602A\u72692\u9000\u573A"
+    type: "\u9000\u573A"
+    enemys: e2
+    cd: 0
+    num: 0
+    hp_up: 0
+    dmg_up: 0
+    exp_up: 0
+    speed_up: 1
+  - id: d001
+    time: 270
+    desc: "\u602A\u72691\u9000\u573A"
+    type: "\u9000\u573A"
+    enemys: e1
+    cd: 0
+    num: 0
+    hp_up: 0
+    dmg_up: 0
+    exp_up: 0
+    speed_up: 1
+  - id: d001
+    time: 270
+    desc: "\u602A\u72692\u52A0\u5165"
+    type: "\u52A0\u5165"
+    enemys: e2
+    cd: 1
+    num: 15
+    hp_up: 2
+    dmg_up: 1
+    exp_up: 1
+    speed_up: 1
+  - id: d001
+    time: 300
+    desc: "boss\u52A0\u51651"
+    type: boss
+    enemys: boss1
+    cd: 0
+    num: 0
+    hp_up: 1
+    dmg_up: 1
+    exp_up: 1
+    speed_up: 1
+  - id: d001
+    time: 301
+    desc: "\u602A\u72691\u52A0\u5165"
+    type: "\u52A0\u5165"
+    enemys: e1
+    cd: 5
+    num: 15
+    hp_up: 5
+    dmg_up: 2
+    exp_up: 2
+    speed_up: 1
+  - id: d001
+    time: 360
+    desc: "\u602A\u72692\u52A0\u5165"
+    type: "\u52A0\u5165"
+    enemys: e2
+    cd: 3
+    num: 15
+    hp_up: 5
+    dmg_up: 2
+    exp_up: 2
+    speed_up: 1
+  - id: d001
+    time: 420
+    desc: "\u602A\u72693\u52A0\u5165"
+    type: "\u52A0\u5165"
+    enemys: e3
+    cd: 2
+    num: 15
+    hp_up: 5
+    dmg_up: 2
+    exp_up: 2
+    speed_up: 1
+  - id: d001
+    time: 480
+    desc: "\u602A\u6F6E2"
+    type: "\u602A\u6F6E"
+    enemys: e1
+    cd: 1
+    num: 80
+    hp_up: 6
+    dmg_up: 2
+    exp_up: 2
+    speed_up: 1
+  - id: d001
+    time: 540
+    desc: "\u7CBE\u82F1\u52A0\u51652"
+    type: "\u7CBE\u82F1"
+    enemys: jy1
+    cd: 0
+    num: 0
+    hp_up: 4
+    dmg_up: 2
+    exp_up: 2
+    speed_up: 1
+  - id: d001
+    time: 600
+    desc: "boss\u52A0\u51652"
+    type: boss
+    enemys: boss1
+    cd: 0
+    num: 0
+    hp_up: 4
+    dmg_up: 2
+    exp_up: 2
+    speed_up: 1
+  - id: d001
+    time: 601
+    desc: "\u602A\u72691\u52A0\u5165"
+    type: "\u52A0\u5165"
+    enemys: e1
+    cd: 3
+    num: 30
+    hp_up: 7
+    dmg_up: 3
+    exp_up: 6
+    speed_up: 1
+  - id: d001
+    time: 660
+    desc: "\u602A\u72692\u52A0\u5165"
+    type: "\u52A0\u5165"
+    enemys: e2
+    cd: 2
+    num: 40
+    hp_up: 7
+    dmg_up: 3
+    exp_up: 6
+    speed_up: 1
+  - id: d001
+    time: 720
+    desc: "\u602A\u6F6E3"
+    type: "\u602A\u6F6E"
+    enemys: e3
+    cd: 1
+    num: 100
+    hp_up: 10
+    dmg_up: 3
+    exp_up: 6
+    speed_up: 1
+  - id: d001
+    time: 840
+    desc: "\u7CBE\u82F1\u52A0\u51653"
+    type: "\u7CBE\u82F1"
+    enemys: jy1
+    cd: 0
+    num: 0
+    hp_up: 7
+    dmg_up: 3
+    exp_up: 6
+    speed_up: 1
+  - id: d001
+    time: 900
+    desc: "boss\u52A0\u51653"
+    type: boss
+    enemys: boss1
+    cd: 0
+    num: 0
+    hp_up: 7
+    dmg_up: 3
+    exp_up: 6
+    speed_up: 1

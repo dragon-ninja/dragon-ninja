@@ -1,0 +1,69 @@
+
+怪物-2.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jiao_l
+  rotate: false
+  xy: 76, 31
+  size: 67, 74
+  orig: 67, 74
+  offset: 0, 0
+  index: -1
+jiao_r
+  rotate: false
+  xy: 232, 74
+  size: 64, 72
+  orig: 64, 72
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 107
+  size: 117, 146
+  orig: 117, 146
+  offset: 0, 0
+  index: -1
+shou_l
+  rotate: false
+  xy: 145, 94
+  size: 72, 52
+  orig: 72, 52
+  offset: 0, 0
+  index: -1
+shou_r
+  rotate: false
+  xy: 145, 38
+  size: 62, 54
+  orig: 62, 54
+  offset: 0, 0
+  index: -1
+tietongba
+  rotate: true
+  xy: 232, 2
+  size: 70, 45
+  orig: 70, 45
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 121, 148
+  size: 105, 161
+  orig: 105, 161
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: false
+  xy: 2, 18
+  size: 72, 87
+  orig: 72, 87
+  offset: 0, 0
+  index: -1
+yingzi
+  rotate: false
+  xy: 76, 8
+  size: 154, 21
+  orig: 154, 21
+  offset: 0, 0
+  index: -1

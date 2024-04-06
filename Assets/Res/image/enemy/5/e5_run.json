@@ -1,0 +1,204 @@
+{"frames": [
+
+{
+	"filename": "怪物-飞鱼-animation_00.png",
+	"frame": {"x":0,"y":0,"w":140,"h":118},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":140,"h":118},
+	"sourceSize": {"w":140,"h":118}
+},
+{
+	"filename": "怪物-飞鱼-animation_01.png",
+	"frame": {"x":140,"y":0,"w":140,"h":118},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":140,"h":118},
+	"sourceSize": {"w":140,"h":118}
+},
+{
+	"filename": "怪物-飞鱼-animation_02.png",
+	"frame": {"x":280,"y":0,"w":140,"h":118},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":140,"h":118},
+	"sourceSize": {"w":140,"h":118}
+},
+{
+	"filename": "怪物-飞鱼-animation_03.png",
+	"frame": {"x":420,"y":0,"w":140,"h":118},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":140,"h":118},
+	"sourceSize": {"w":140,"h":118}
+},
+{
+	"filename": "怪物-飞鱼-animation_04.png",
+	"frame": {"x":560,"y":0,"w":140,"h":118},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":140,"h":118},
+	"sourceSize": {"w":140,"h":118}
+},
+{
+	"filename": "怪物-飞鱼-animation_05.png",
+	"frame": {"x":700,"y":0,"w":140,"h":118},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":140,"h":118},
+	"sourceSize": {"w":140,"h":118}
+},
+{
+	"filename": "怪物-飞鱼-animation_06.png",
+	"frame": {"x":0,"y":118,"w":140,"h":118},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":140,"h":118},
+	"sourceSize": {"w":140,"h":118}
+},
+{
+	"filename": "怪物-飞鱼-animation_07.png",
+	"frame": {"x":140,"y":118,"w":140,"h":118},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":140,"h":118},
+	"sourceSize": {"w":140,"h":118}
+},
+{
+	"filename": "怪物-飞鱼-animation_08.png",
+	"frame": {"x":280,"y":118,"w":140,"h":118},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":140,"h":118},
+	"sourceSize": {"w":140,"h":118}
+},
+{
+	"filename": "怪物-飞鱼-animation_09.png",
+	"frame": {"x":420,"y":118,"w":140,"h":118},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":140,"h":118},
+	"sourceSize": {"w":140,"h":118}
+},
+{
+	"filename": "怪物-飞鱼-animation_10.png",
+	"frame": {"x":560,"y":118,"w":140,"h":118},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":140,"h":118},
+	"sourceSize": {"w":140,"h":118}
+},
+{
+	"filename": "怪物-飞鱼-animation_11.png",
+	"frame": {"x":700,"y":118,"w":140,"h":118},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":140,"h":118},
+	"sourceSize": {"w":140,"h":118}
+},
+{
+	"filename": "怪物-飞鱼-animation_12.png",
+	"frame": {"x":0,"y":236,"w":140,"h":118},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":140,"h":118},
+	"sourceSize": {"w":140,"h":118}
+},
+{
+	"filename": "怪物-飞鱼-animation_13.png",
+	"frame": {"x":140,"y":236,"w":140,"h":118},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":140,"h":118},
+	"sourceSize": {"w":140,"h":118}
+},
+{
+	"filename": "怪物-飞鱼-animation_14.png",
+	"frame": {"x":280,"y":236,"w":140,"h":118},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":140,"h":118},
+	"sourceSize": {"w":140,"h":118}
+},
+{
+	"filename": "怪物-飞鱼-animation_15.png",
+	"frame": {"x":420,"y":236,"w":140,"h":118},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":140,"h":118},
+	"sourceSize": {"w":140,"h":118}
+},
+{
+	"filename": "怪物-飞鱼-animation_16.png",
+	"frame": {"x":560,"y":236,"w":140,"h":118},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":140,"h":118},
+	"sourceSize": {"w":140,"h":118}
+},
+{
+	"filename": "怪物-飞鱼-animation_17.png",
+	"frame": {"x":700,"y":236,"w":140,"h":118},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":140,"h":118},
+	"sourceSize": {"w":140,"h":118}
+},
+{
+	"filename": "怪物-飞鱼-animation_18.png",
+	"frame": {"x":0,"y":354,"w":140,"h":118},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":140,"h":118},
+	"sourceSize": {"w":140,"h":118}
+},
+{
+	"filename": "怪物-飞鱼-animation_19.png",
+	"frame": {"x":140,"y":354,"w":140,"h":118},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":140,"h":118},
+	"sourceSize": {"w":140,"h":118}
+},
+{
+	"filename": "怪物-飞鱼-animation_20.png",
+	"frame": {"x":280,"y":354,"w":140,"h":118},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":140,"h":118},
+	"sourceSize": {"w":140,"h":118}
+},
+{
+	"filename": "怪物-飞鱼-animation_21.png",
+	"frame": {"x":420,"y":354,"w":140,"h":118},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":140,"h":118},
+	"sourceSize": {"w":140,"h":118}
+},
+{
+	"filename": "怪物-飞鱼-animation_22.png",
+	"frame": {"x":560,"y":354,"w":140,"h":118},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":140,"h":118},
+	"sourceSize": {"w":140,"h":118}
+},
+{
+	"filename": "怪物-飞鱼-animation_23.png",
+	"frame": {"x":700,"y":354,"w":140,"h":118},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":140,"h":118},
+	"sourceSize": {"w":140,"h":118}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "e5_run.png",
+	"format": "RGBA8888",
+	"size": {"w":840,"h":472},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:1dfa07549b41bdeedba0c3f60937af8f:c0e16bffe1d690ce6f8bc178f9059ebb:733d6f7e5b1458dcaa6b1dc3646a5116$"
+}
+}

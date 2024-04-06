@@ -1,0 +1,144 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: shandian11
+  m_Shader: {fileID: 4800000, guid: 29466f95d4272bb43995f2cf9983a2ba, type: 3}
+  m_ValidKeywords: []
+  m_InvalidKeywords:
+  - _ALPHABLEND_ON
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DissloveTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DistortTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: ff5ab684a7ef12d49ba96ee549063bb4, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MaskTex:
+        m_Texture: {fileID: 2800000, guid: 48b5cb5db0c62474cb36d4e7f8dfdf64, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _VTOMaskTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _VTOTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _tex4coord2:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord2:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord3:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _AlphaAdd: 1
+    - _BlendOp: 0
+    - _BumpScale: 1
+    - _CameraFadingEnabled: 0
+    - _CameraFarFadeDistance: 2
+    - _CameraNearFadeDistance: 1
+    - _ColorMode: 0
+    - _Cull: 0
+    - _Cullmode: 0
+    - _CustomdataDis: 0
+    - _CustomdataMainTexUV: 0
+    - _CustomdataMaskUV: 0
+    - _Cutoff: 0.5
+    - _DIssloveFactor: 1
+    - _DIssloveSoft: 0.8235294
+    - _DIssolve_rotat: 0
+    - _DepthfadeFactor: 1
+    - _Depthfadeon: 0
+    - _DisTex_Uspeed: 0
+    - _DisTex_Vspeed: 0
+    - _DistortDisTex: 0
+    - _DistortFactor: 0
+    - _DistortMainTex: 1
+    - _DistortTex_Uspeed: 0
+    - _DistortTex_Vspeed: 0
+    - _DistortionBlend: 0.5
+    - _DistortionEnabled: 0
+    - _DistortionStrength: 1
+    - _DistortionStrengthScaled: 0
+    - _Dst: 1
+    - _DstBlend: 1
+    - _EmissionEnabled: 0
+    - _FNLfanxiangkaiguan: 0
+    - _FNLkaiguan: 0
+    - _FlipbookMode: 0
+    - _LightingEnabled: 0
+    - _MainAlpha: 1
+    - _MainAlphaPower: 1
+    - _MainTex_Uspeed: 0
+    - _MainTex_Vspeed: 0
+    - _MainTex_ar: 0
+    - _MainTex_rotat: 0
+    - _MaskAlphaRA: 1
+    - _Mask_rotat: 90
+    - _Mask_scale: 1
+    - _Mode: 4
+    - _Scr: 1
+    - _SoftParticlesEnabled: 0
+    - _SoftParticlesFarFadeDistance: 1
+    - _SoftParticlesNearFadeDistance: 0
+    - _SrcBlend: 5
+    - _ToggleSwitch0: 0
+    - _VTOFactor: 0
+    - _VTOTex_Uspeed: 0
+    - _VTOTex_Vspeed: 0
+    - _ZWrite: 0
+    - _Ztest: 4
+    - __dirty: 1
+    - _fnl_power: 1
+    - _fnl_sacle: 0
+    - _softFacotr: 1
+    m_Colors:
+    - _CameraFadeParams: {r: 0, g: Infinity, b: 0, a: 0}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _ColorAddSubDiff: {r: 0, g: 0, b: 0, a: 0}
+    - _DIssloveColor: {r: 1, g: 1, b: 1, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _MainColor: {r: 1, g: 1, b: 1, a: 1}
+    - _SoftParticleFadeParams: {r: 0, g: 0, b: 0, a: 0}
+    - _fnl_color: {r: 1, g: 1, b: 1, a: 0}
+  m_BuildTextureStacks: []

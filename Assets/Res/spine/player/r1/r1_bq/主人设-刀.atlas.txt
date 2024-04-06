@@ -1,0 +1,202 @@
+
+主人设-刀.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+neilian
+  rotate: true
+  xy: 2, 18
+  size: 236, 159
+  orig: 236, 159
+  offset: 0, 0
+  index: -1
+peishi
+  rotate: true
+  xy: 1244, 193
+  size: 61, 46
+  orig: 61, 46
+  offset: 0, 0
+  index: -1
+quantou-2
+  rotate: true
+  xy: 481, 2
+  size: 58, 46
+  orig: 60, 47
+  offset: 0, 1
+  index: -1
+shang bi-2
+  rotate: false
+  xy: 599, 4
+  size: 43, 56
+  orig: 43, 56
+  offset: 0, 0
+  index: -1
+shanglian
+  rotate: false
+  xy: 422, 62
+  size: 295, 192
+  orig: 297, 202
+  offset: 1, 5
+  index: -1
+shengti
+  rotate: true
+  xy: 764, 112
+  size: 142, 114
+  orig: 152, 120
+  offset: 5, 3
+  index: -1
+shou -3
+  rotate: false
+  xy: 834, 8
+  size: 46, 54
+  orig: 46, 54
+  offset: 0, 0
+  index: -1
+taidao
+  rotate: false
+  xy: 163, 45
+  size: 257, 209
+  orig: 263, 212
+  offset: 6, 0
+  index: -1
+taidao  a-2
+  rotate: false
+  xy: 955, 2
+  size: 318, 64
+  orig: 324, 64
+  offset: 6, 0
+  index: -1
+taidao b
+  rotate: false
+  xy: 163, 5
+  size: 316, 38
+  orig: 327, 38
+  offset: 0, 0
+  index: -1
+tiezhi
+  rotate: false
+  xy: 1275, 47
+  size: 38, 52
+  orig: 38, 52
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: false
+  xy: 911, 68
+  size: 84, 70
+  orig: 84, 70
+  offset: 0, 0
+  index: -1
+xialian
+  rotate: false
+  xy: 976, 164
+  size: 266, 90
+  orig: 266, 90
+  offset: 0, 0
+  index: -1
+xiao bi-1
+  rotate: false
+  xy: 764, 64
+  size: 72, 46
+  orig: 72, 46
+  offset: 0, 0
+  index: -1
+xiao bi-2
+  rotate: true
+  xy: 644, 5
+  size: 55, 54
+  orig: 55, 56
+  offset: 0, 1
+  index: -1
+xiaobi-3
+  rotate: false
+  xy: 1150, 100
+  size: 62, 62
+  orig: 62, 64
+  offset: 0, 1
+  index: -1
+yingzi
+  rotate: true
+  xy: 719, 90
+  size: 164, 43
+  orig: 164, 43
+  offset: 0, 0
+  index: -1
+youbi
+  rotate: false
+  xy: 997, 85
+  size: 51, 77
+  orig: 51, 77
+  offset: 0, 0
+  index: -1
+youjiao
+  rotate: true
+  xy: 529, 4
+  size: 56, 68
+  orig: 56, 68
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: true
+  xy: 1275, 8
+  size: 37, 44
+  orig: 37, 44
+  offset: 0, 0
+  index: -1
+youyan
+  rotate: false
+  xy: 771, 2
+  size: 61, 60
+  orig: 61, 60
+  offset: 0, 0
+  index: -1
+zhixiang_yan
+  rotate: false
+  xy: 1103, 94
+  size: 45, 68
+  orig: 45, 68
+  offset: 0, 0
+  index: -1
+zuohou
+  rotate: true
+  xy: 880, 140
+  size: 114, 94
+  orig: 114, 94
+  offset: 0, 0
+  index: -1
+zuojiao
+  rotate: false
+  xy: 1050, 93
+  size: 51, 69
+  orig: 51, 69
+  offset: 0, 0
+  index: -1
+zuojiao2
+  rotate: true
+  xy: 700, 6
+  size: 54, 69
+  orig: 54, 69
+  offset: 0, 0
+  index: -1
+zuoshou -3
+  rotate: false
+  xy: 838, 64
+  size: 71, 46
+  orig: 115, 46
+  offset: 0, 0
+  index: -1
+zuoshou-1
+  rotate: false
+  xy: 882, 10
+  size: 71, 52
+  orig: 71, 52
+  offset: 0, 0
+  index: -1
+zuoyan
+  rotate: false
+  xy: 1214, 101
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
