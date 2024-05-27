@@ -1,0 +1,7 @@
+public enum EquipmentRank
+{
+	TYPE_NORMAL,
+	TYPE_UNIQUE,
+	TYPE_LEGENDARY,
+	TYPE_SUPERLEGENDARY
+}

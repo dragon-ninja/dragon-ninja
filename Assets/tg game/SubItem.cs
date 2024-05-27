@@ -1,0 +1,7 @@
+public enum SubItem
+{
+	SUB_SCROLL,
+	SUB_SCROLL_HOLD,
+	SUB_LIGHT,
+	SUB_ROTATE
+}
